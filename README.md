@@ -5,7 +5,7 @@ Overview
 
 Features
   - Modular Architecture: The project is organized into different modules to enhance maintainability and scalability.
-  - Tech Stack: Utilizes a combination of C#, .NET MAUI, XAML.
+  - Tech Stack: Utilizes a combination of C#, XAML.
   - Multi-Language Support: Supports multiple languages through resource files.
     
 Directory Structure
@@ -19,8 +19,8 @@ Directory Structure
   - /Views: UI components and views.
     
 Platform and Frameworks
-  - Platform: .NET MAUI
-  - Frameworks: ASP.NET Core
+  - Platform: .NET 8.0
+  - Frameworks: .NET MAUI
     
 Getting Started
   1. Clone the repository:
