@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:localization="clr-namespace:SoftwareSystemOrders.Resources.Localization"
+             xmlns:model="clr-namespace:SoftwareSystemOrders.Model"
+             x:Class="SoftwareSystemOrders.Views.OrderDetailsPage"
+             Title="">
+    <ScrollView>
+        <VerticalStackLayout Spacing="40" Padding="0, 30" HorizontalOptions="Center" VerticalOptions="Center">
+            <HorizontalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                <Label Text="{x:Static localization:Resources.DetailedInformation}" HorizontalOptions="Center" VerticalOptions="Center" FontSize="Title" FontAttributes="Bold"/>
+            </HorizontalStackLayout>
+            <Grid x:Name="DetailsGrid" ColumnSpacing="50" RowDefinitions="Auto" Padding="10" VerticalOptions="Center">
+                <Image Source="{Binding SelectedOrder.Item.Product.ImageUrl}" 
+                       Aspect="AspectFit"
+                       WidthRequest="600"
+                       Grid.Row="0"
+                       Grid.Column="0"/>
+                <VerticalStackLayout x:Name="detailsLayout" Padding="10" Grid.Row="0" Grid.Column="1" VerticalOptions="Center">
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.NameOfProduct}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding SelectedOrder.Item.Product.Name}" FontSize="Subtitle"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.ProductID}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding SelectedOrder.Item.ProductId}" FontSize="Subtitle"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.Quantity}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding SelectedOrder.Item.Quantity}" FontSize="Subtitle"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.Description}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding SelectedOrder.Item.Product.Description}" FontSize="Subtitle"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.ProductPrice}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <HorizontalStackLayout Spacing="5">
+                            <Label Text="{Binding SelectedOrder.Item.Price}" FontSize="Subtitle"/>
+                            <Label Text="{x:Static localization:Resources.Currency}" FontSize="Subtitle"/>
+                        </HorizontalStackLayout>
+                    </HorizontalStackLayout>
+                </VerticalStackLayout>
+            </Grid>
+            <VerticalStackLayout Spacing="50">
+                <Label Text="{x:Static localization:Resources.CustomerInformationTitle}" FontSize="Title" FontAttributes="Bold" HorizontalOptions="Center"/>
+                <VerticalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.CustomerID}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding SelectedOrder.CustomerId}" FontSize="Subtitle"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.CustomerName}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding SelectedOrder.Customer.Name}" FontSize="Subtitle" />
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.CustomerEmail}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding SelectedOrder.Customer.Email}" FontSize="Subtitle" />
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.CustomerPhoneNumber}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding SelectedOrder.Customer.Phone}" FontSize="Subtitle" />
+                    </HorizontalStackLayout>
+                </VerticalStackLayout>
+            </VerticalStackLayout>
+            <VerticalStackLayout Spacing="50">
+                <Label Text="{x:Static localization:Resources.OrderInformationTitle}" FontSize="Title" FontAttributes="Bold" HorizontalOptions="Center"/>
+                <VerticalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.OrderID}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding SelectedOrder.Id}" FontSize="Subtitle"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.OrderStatus}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding LocalizedOrderStatus}" FontSize="Subtitle"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.DateOfOrder}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <Label Text="{Binding SelectedOrder.Date}" FontSize="Subtitle"/>
+                    </HorizontalStackLayout>
+                    <HorizontalStackLayout Spacing="20">
+                        <Label Text="{x:Static localization:Resources.TotalPrice}" FontSize="Subtitle" FontAttributes="Bold"/>
+                        <HorizontalStackLayout Spacing="5">
+                            <Label Text="{Binding SelectedOrder.TotalPrice}" FontSize="Subtitle"/>
+                            <Label Text="{x:Static localization:Resources.Currency}" FontSize="Subtitle"/>
+                        </HorizontalStackLayout>
+                    </HorizontalStackLayout>
+                </VerticalStackLayout>
+            </VerticalStackLayout>
+            <Grid ColumnDefinitions="*,*" ColumnSpacing="20" Padding="10" VerticalOptions="Center" HorizontalOptions="Center">
+                <Button x:Name="CancelButton" Text="{x:Static localization:Resources.CancelOrder}" Command="{Binding ChangeOrderStatusCommand}" CommandParameter="{x:Static model:OrderStatus.Canceled}" Clicked="OnCancelOrderClicked"/>
+                <Button x:Name="CompleteButton" Text="{x:Static localization:Resources.ConfirmOrder}" Command="{Binding ChangeOrderStatusCommand}" CommandParameter="{x:Static model:OrderStatus.Delivered}" Clicked="OnCompleteOrderClicked" Grid.Column="1"/>
+            </Grid>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

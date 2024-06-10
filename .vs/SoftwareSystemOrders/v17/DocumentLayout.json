@@ -1,0 +1,867 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SoftwareSystemOrders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|E:\\SoftwareSystemOrders\\resources\\localization\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:resources\\localization\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\converters\\stringnotemptytobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:converters\\stringnotemptytobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\model\\builder\\productbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:model\\builder\\productbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\model\\builder\\orderitembuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:model\\builder\\orderitembuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\model\\builder\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:model\\builder\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\model\\builder\\customerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:model\\builder\\customerbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\helpers\\storagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:helpers\\storagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\viewmodel\\baseorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:viewmodel\\baseorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\viewmodel\\completedorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:viewmodel\\completedorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\viewmodel\\createorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:viewmodel\\createorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\viewmodel\\pendingorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:viewmodel\\pendingorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\viewmodel\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:viewmodel\\orderdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\views\\orderdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:views\\orderdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\views\\pendingorderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:views\\pendingorderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\views\\pendingorderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:views\\pendingorderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:views\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\views\\createorderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:views\\createorderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\views\\completedorderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:views\\completedorderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\views\\completedorderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:views\\completedorderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\views\\createorderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:views\\createorderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\views\\orderdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:views\\orderdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|E:\\SoftwareSystemOrders\\resources\\localization\\resources.uk-ua.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:resources\\localization\\resources.uk-ua.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\views\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:views\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\resources\\images\\icon_home.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:resources\\images\\icon_home.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\resources\\appicon\\iconsystemorder.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:resources\\appicon\\iconsystemorder.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\resources\\localization\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:resources\\localization\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\properties\\publishprofiles\\msix-win10-x642.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:properties\\publishprofiles\\msix-win10-x642.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\softwaresystemorders.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:softwaresystemorders.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vldst\\AppData\\Local\\Temp\\.vsdbgsrc\\e13292b6d21608fc67fffd3467947a75a9226e77\\Views_OrderDetailsPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\softwaresystemorders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:softwaresystemorders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vldst\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:platforms\\windows\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:platforms\\windows\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\platforms\\tizen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:platforms\\tizen\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:platforms\\windows\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\resources\\images\\a4techkeyboard.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:resources\\images\\a4techkeyboard.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|e:\\softwaresystemorders\\resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BDAE48A9-9EE5-48AE-9114-EFBC196C9204}|SoftwareSystemOrders.csproj|solutionrelative:resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.EmbeddedResource.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerBuilder.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Model\\Builder\\CustomerBuilder.cs",
+              "RelativeDocumentMoniker": "Model\\Builder\\CustomerBuilder.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Model\\Builder\\CustomerBuilder.cs",
+              "RelativeToolTip": "Model\\Builder\\CustomerBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:12:59.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderBuilder.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Model\\Builder\\OrderBuilder.cs",
+              "RelativeDocumentMoniker": "Model\\Builder\\OrderBuilder.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Model\\Builder\\OrderBuilder.cs",
+              "RelativeToolTip": "Model\\Builder\\OrderBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:55:52.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItemBuilder.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Model\\Builder\\OrderItemBuilder.cs",
+              "RelativeDocumentMoniker": "Model\\Builder\\OrderItemBuilder.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Model\\Builder\\OrderItemBuilder.cs",
+              "RelativeToolTip": "Model\\Builder\\OrderItemBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:56:46.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductBuilder.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Model\\Builder\\ProductBuilder.cs",
+              "RelativeDocumentMoniker": "Model\\Builder\\ProductBuilder.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Model\\Builder\\ProductBuilder.cs",
+              "RelativeToolTip": "Model\\Builder\\ProductBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:36:22.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringNotEmptyToBooleanConverter.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Converters\\StringNotEmptyToBooleanConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\StringNotEmptyToBooleanConverter.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Converters\\StringNotEmptyToBooleanConverter.cs",
+              "RelativeToolTip": "Converters\\StringNotEmptyToBooleanConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:49:15.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Resources\\Localization\\Resources.resx",
+              "RelativeDocumentMoniker": "Resources\\Localization\\Resources.resx",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Resources\\Localization\\Resources.resx",
+              "RelativeToolTip": "Resources\\Localization\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-14T09:09:57.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "E:\\SoftwareSystemOrders\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-09T16:09:50.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:09:49.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "E:\\SoftwareSystemOrders\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T20:00:16.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:00:19.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:48:25.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:33:07.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:32:54.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Model\\OrderItem.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Model\\OrderItem.cs",
+              "RelativeToolTip": "Model\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:33:21.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T16:33:35.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StorageHelper.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Helpers\\StorageHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\StorageHelper.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Helpers\\StorageHelper.cs",
+              "RelativeToolTip": "Helpers\\StorageHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:45:44.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "Services\\DataService.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Services\\DataService.cs",
+              "RelativeToolTip": "Services\\DataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:11:29.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseOrderViewModel.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\ViewModel\\BaseOrderViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\BaseOrderViewModel.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\ViewModel\\BaseOrderViewModel.cs",
+              "RelativeToolTip": "ViewModel\\BaseOrderViewModel.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwBEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:43:00.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompletedOrderViewModel.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\ViewModel\\CompletedOrderViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CompletedOrderViewModel.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\ViewModel\\CompletedOrderViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CompletedOrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:56:57.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateOrderViewModel.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\ViewModel\\CreateOrderViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CreateOrderViewModel.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\ViewModel\\CreateOrderViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CreateOrderViewModel.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:08:04.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PendingOrderViewModel.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\ViewModel\\PendingOrderViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\PendingOrderViewModel.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\ViewModel\\PendingOrderViewModel.cs",
+              "RelativeToolTip": "ViewModel\\PendingOrderViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:19:14.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetailsViewModel.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\ViewModel\\OrderDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\OrderDetailsViewModel.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\ViewModel\\OrderDetailsViewModel.cs",
+              "RelativeToolTip": "ViewModel\\OrderDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:25:55.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDetailsPage.xaml.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Views\\OrderDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\OrderDetailsPage.xaml.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Views\\OrderDetailsPage.xaml.cs",
+              "RelativeToolTip": "Views\\OrderDetailsPage.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwC4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:58:34.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PendingOrderPage.xaml.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Views\\PendingOrderPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\PendingOrderPage.xaml.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Views\\PendingOrderPage.xaml.cs",
+              "RelativeToolTip": "Views\\PendingOrderPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:26:41.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PendingOrderPage.xaml",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Views\\PendingOrderPage.xaml",
+              "RelativeDocumentMoniker": "Views\\PendingOrderPage.xaml",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Views\\PendingOrderPage.xaml",
+              "RelativeToolTip": "Views\\PendingOrderPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T18:04:34.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Views\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\SettingsPage.xaml",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Views\\SettingsPage.xaml",
+              "RelativeToolTip": "Views\\SettingsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T20:00:50.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateOrderPage.xaml.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Views\\CreateOrderPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CreateOrderPage.xaml.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Views\\CreateOrderPage.xaml.cs",
+              "RelativeToolTip": "Views\\CreateOrderPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:25:11.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CompletedOrderPage.xaml.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Views\\CompletedOrderPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CompletedOrderPage.xaml.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Views\\CompletedOrderPage.xaml.cs",
+              "RelativeToolTip": "Views\\CompletedOrderPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:45:44.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CompletedOrderPage.xaml",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Views\\CompletedOrderPage.xaml",
+              "RelativeDocumentMoniker": "Views\\CompletedOrderPage.xaml",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Views\\CompletedOrderPage.xaml",
+              "RelativeToolTip": "Views\\CompletedOrderPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T18:05:02.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateOrderPage.xaml",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Views\\CreateOrderPage.xaml",
+              "RelativeDocumentMoniker": "Views\\CreateOrderPage.xaml",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Views\\CreateOrderPage.xaml",
+              "RelativeToolTip": "Views\\CreateOrderPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T18:04:03.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetailsPage.xaml",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Views\\OrderDetailsPage.xaml",
+              "RelativeDocumentMoniker": "Views\\OrderDetailsPage.xaml",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Views\\OrderDetailsPage.xaml",
+              "RelativeToolTip": "Views\\OrderDetailsPage.xaml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAEwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-13T13:58:16.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Platforms\\Windows\\App.xaml.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeToolTip": "Platforms\\Windows\\App.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:34:01.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Resources.uk-UA.resx",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Resources\\Localization\\Resources.uk-UA.resx",
+              "RelativeDocumentMoniker": "Resources\\Localization\\Resources.uk-UA.resx",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Resources\\Localization\\Resources.uk-UA.resx",
+              "RelativeToolTip": "Resources\\Localization\\Resources.uk-UA.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-14T09:10:43.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Views\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\SettingsPage.xaml.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Views\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "Views\\SettingsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T20:00:52.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "icon_home.png",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Resources\\Images\\icon_home.png",
+              "RelativeDocumentMoniker": "Resources\\Images\\icon_home.png",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Resources\\Images\\icon_home.png",
+              "RelativeToolTip": "Resources\\Images\\icon_home.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-18T14:59:05.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Resources\\Localization\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Resources\\Localization\\Resources.Designer.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Resources\\Localization\\Resources.Designer.cs",
+              "RelativeToolTip": "Resources\\Localization\\Resources.Designer.cs",
+              "ViewState": "AQIAALgBAAAAAAAAAAAkwMwBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:23:44.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T14:04:27.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "iconsystemorder.svg",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Resources\\AppIcon\\iconsystemorder.svg",
+              "RelativeDocumentMoniker": "Resources\\AppIcon\\iconsystemorder.svg",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Resources\\AppIcon\\iconsystemorder.svg",
+              "RelativeToolTip": "Resources\\AppIcon\\iconsystemorder.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-18T13:43:40.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MSIX-win10-x642.pubxml",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Properties\\PublishProfiles\\MSIX-win10-x642.pubxml",
+              "RelativeDocumentMoniker": "Properties\\PublishProfiles\\MSIX-win10-x642.pubxml",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Properties\\PublishProfiles\\MSIX-win10-x642.pubxml",
+              "RelativeToolTip": "Properties\\PublishProfiles\\MSIX-win10-x642.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-18T14:04:35.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SoftwareSystemOrders",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\SoftwareSystemOrders.csproj",
+              "RelativeDocumentMoniker": "SoftwareSystemOrders.csproj",
+              "ToolTip": "E:\\SoftwareSystemOrders\\SoftwareSystemOrders.csproj",
+              "RelativeToolTip": "SoftwareSystemOrders.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T17:11:03.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Views_OrderDetailsPage.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\vldst\\AppData\\Local\\Temp\\.vsdbgsrc\\e13292b6d21608fc67fffd3467947a75a9226e77\\Views_OrderDetailsPage.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\vldst\\AppData\\Local\\Temp\\.vsdbgsrc\\e13292b6d21608fc67fffd3467947a75a9226e77\\Views_OrderDetailsPage.xaml.sg.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:42:49.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-09T10:34:53.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SoftwareSystemOrders.csproj",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\SoftwareSystemOrders.csproj",
+              "RelativeDocumentMoniker": "SoftwareSystemOrders.csproj",
+              "ToolTip": "E:\\SoftwareSystemOrders\\SoftwareSystemOrders.csproj",
+              "RelativeToolTip": "SoftwareSystemOrders.csproj",
+              "ViewState": "AQIAABAAAAAAAAAAAGBnwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T18:28:05.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:37:01.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "Platforms\\Windows\\Package.appxmanifest",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Platforms\\Windows\\Package.appxmanifest",
+              "RelativeToolTip": "Platforms\\Windows\\Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2024-04-16T16:08:25.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\vldst\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\vldst\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.20\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AQIAADsCAAAAAAAAAADgv24CAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-16T16:43:38.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AQIAAMwAAAAAAAAAAADgv9UAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-16T16:47:07.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "a4techkeyboard.png",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Resources\\Images\\a4techkeyboard.png",
+              "RelativeDocumentMoniker": "Resources\\Images\\a4techkeyboard.png",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Resources\\Images\\a4techkeyboard.png",
+              "RelativeToolTip": "Resources\\Images\\a4techkeyboard.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-16T08:36:58.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "app.manifest",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Platforms\\Windows\\app.manifest",
+              "RelativeDocumentMoniker": "Platforms\\Windows\\app.manifest",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Platforms\\Windows\\app.manifest",
+              "RelativeToolTip": "Platforms\\Windows\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2024-04-16T09:49:24.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Platforms\\Windows\\App.xaml",
+              "RelativeDocumentMoniker": "Platforms\\Windows\\App.xaml",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Platforms\\Windows\\App.xaml",
+              "RelativeToolTip": "Platforms\\Windows\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T10:33:50.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "Platforms\\MacCatalyst\\AppDelegate.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "RelativeToolTip": "Platforms\\MacCatalyst\\AppDelegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:36:49.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Main.cs",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Platforms\\Tizen\\Main.cs",
+              "RelativeDocumentMoniker": "Platforms\\Tizen\\Main.cs",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Platforms\\Tizen\\Main.cs",
+              "RelativeToolTip": "Platforms\\Tizen\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:36:54.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AboutAssets.txt",
+              "DocumentMoniker": "E:\\SoftwareSystemOrders\\Resources\\Raw\\AboutAssets.txt",
+              "RelativeDocumentMoniker": "Resources\\Raw\\AboutAssets.txt",
+              "ToolTip": "E:\\SoftwareSystemOrders\\Resources\\Raw\\AboutAssets.txt",
+              "RelativeToolTip": "Resources\\Raw\\AboutAssets.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-14T09:07:36.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Xamarin.Android.EmbeddedResource.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.EmbeddedResource.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.EmbeddedResource.targets",
+              "ViewState": "AQIAABEAAAAAAAAAAADgvyYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-08T20:13:34.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

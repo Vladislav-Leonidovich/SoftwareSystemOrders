@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="SoftwareSystemOrders.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:localization="clr-namespace:SoftwareSystemOrders.Resources.Localization"
+    xmlns:views="clr-namespace:SoftwareSystemOrders.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="Software System Orders">
+
+    <TabBar>
+        <ShellContent
+            Title="{x:Static localization:Resources.CreateOrderPageTitle}"
+            ContentTemplate="{DataTemplate views:CreateOrderPage}"
+            Route="CreateOrderPage"
+            Icon="{OnPlatform 'plus.png', iOS='plus.png', MacCatalyst='plus.png'}" />
+        <ShellContent
+            Title="{x:Static localization:Resources.PendingOrderPageTitle}"
+            ContentTemplate="{DataTemplate views:PendingOrderPage}"
+            Route="PendingOrderPage"
+            Icon="{OnPlatform 'delivery_time.png', iOS='delivery_time.png', MacCatalyst='delivery_time.png'}" />
+        <ShellContent
+            Title="{x:Static localization:Resources.CompletedOrderPageTitle}"
+            ContentTemplate="{DataTemplate views:CompletedOrderPage}"
+            Route="CompletedOrderPage"
+            Icon="{OnPlatform 'ok.png', iOS='ok.png', MacCatalyst='ok.png'}" />
+        <ShellContent
+            Title="{x:Static localization:Resources.SettingPageTitle}"
+            ContentTemplate="{DataTemplate views:SettingsPage}"
+            Route="SettingsPage"
+            Icon="{OnPlatform 'icon_settings.png', iOS='icon_settings.png', MacCatalyst='icon_settings.png'}" />
+    </TabBar>
+
+</Shell>

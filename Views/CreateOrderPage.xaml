@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:localization="clr-namespace:SoftwareSystemOrders.Resources.Localization"
+             xmlns:converters="clr-namespace:SoftwareSystemOrders.Converters"
+             x:Class="SoftwareSystemOrders.Views.CreateOrderPage"
+             Title="">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:StringNotEmptyToBooleanConverter x:Key="StringNotEmptyToBooleanConverter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <VerticalStackLayout>
+        <StackLayout Padding="10" Spacing="10">
+            <Entry Text="{Binding NewCustomerName} " Placeholder="{x:Static localization:Resources.CreateOrderPagePlaceholderName}" Unfocused="Entry_Unfocused" MaxLength="50"/>
+            <Label Text="{Binding CustomerNameError}" TextColor="Red" IsVisible="{Binding CustomerNameError, Converter={StaticResource StringNotEmptyToBooleanConverter}}"/>
+            <Entry Text="{Binding NewCustomerEmail}" Placeholder="{x:Static localization:Resources.CreateOrderPagePlaceholderEmail}" Unfocused="Entry_Unfocused" MaxLength="50"/>
+            <Label Text="{Binding CustomerEmailError}" TextColor="Red" IsVisible="{Binding CustomerEmailError, Converter={StaticResource StringNotEmptyToBooleanConverter}}"/>
+            <Entry Text="{Binding NewCustomerPhone}" Placeholder="{x:Static localization:Resources.CreateOrderPagePlaceholderPhone}" Unfocused="Entry_Unfocused" MaxLength="12" TextChanged="OnPhoneTextChanged"/>
+            <Label Text="{Binding CustomerPhoneError}" TextColor="Red" IsVisible="{Binding CustomerPhoneError, Converter={StaticResource StringNotEmptyToBooleanConverter}}"/>
+            <Picker Title="{x:Static localization:Resources.ProductSelection}"
+                ItemsSource="{Binding DataService.Products}"
+                ItemDisplayBinding="{Binding Name}"
+                SelectedItem="{Binding SelectedProduct}" />
+            <Grid ColumnDefinitions="Auto,*,Auto" Margin="10">
+                <Button Text="-" 
+                        Command="{Binding DecreaseCommand}" 
+                        Grid.Column="0"/>
+                <Entry Text="{Binding Quantity}" 
+                       Placeholder="{x:Static localization:Resources.QuantityPlaceholder}" 
+                       Keyboard="Numeric" 
+                       HorizontalOptions="FillAndExpand" 
+                       Grid.Column="1"/>
+                <Button Text="+" 
+                        Command="{Binding IncreaseCommand}" 
+                        Grid.Column="2"/>
+            </Grid>
+
+            <Button Text="{x:Static localization:Resources.CreateBtn}" Command="{Binding AddOrderCommand}" />
+        </StackLayout>
+    </VerticalStackLayout>
+</ContentPage>

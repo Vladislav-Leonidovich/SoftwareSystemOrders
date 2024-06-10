@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\mousehator.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\delivery_time.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\plus.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\icon_settings.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\ok.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\headphonesmsi.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\systemord.jpg" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\g102mouse.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\fifine.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\a4techkeyboard.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\hypergangwirelesstrimode.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\icon_home.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\hyperxcloudgamingheadset.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\Resources\aulakeyboard.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\dotnet_bot@3x.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\dotnet_bot@2x.png" />
+    <BundleResource Include="E:\SoftwareSystemOrders\obj\Release\net8.0-maccatalyst\resizetizer\r\dotnet_bot.png" />
+    <BundleResource Include="obj\Release\net8.0-maccatalyst\resizetizer\f\OpenSans-Regular.ttf" />
+    <BundleResource Include="obj\Release\net8.0-maccatalyst\resizetizer\f\OpenSans-Semibold.ttf" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SoftwareSystemOrders</name>
+    </assembly>
+    <members>
+        <member name="T:SoftwareSystemOrders.Resources.Localization.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.AttentionMessage">
+            <summary>
+              Ищет локализованную строку, похожую на Attention!.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CancelOrder">
+            <summary>
+              Ищет локализованную строку, похожую на Cancel order.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.ChangeLanguage">
+            <summary>
+              Ищет локализованную строку, похожую на You need to restart the application to apply changes.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.ClearOrdersBtn">
+            <summary>
+              Ищет локализованную строку, похожую на Clear.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.ClearOrdersText">
+            <summary>
+              Ищет локализованную строку, похожую на Clear the entire order cache.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.ClickText">
+            <summary>
+              Ищет локализованную строку, похожую на Click!.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CompletedOrderPageStatus">
+            <summary>
+              Ищет локализованную строку, похожую на Status.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CompletedOrderPageTitle">
+            <summary>
+              Ищет локализованную строку, похожую на Completed orders.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.ConfirmOrder">
+            <summary>
+              Ищет локализованную строку, похожую на Confirm order.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CreateBtn">
+            <summary>
+              Ищет локализованную строку, похожую на Create.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CreateOrderPagePlaceholderEmail">
+            <summary>
+              Ищет локализованную строку, похожую на Email.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CreateOrderPagePlaceholderName">
+            <summary>
+              Ищет локализованную строку, похожую на Name.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CreateOrderPagePlaceholderPhone">
+            <summary>
+              Ищет локализованную строку, похожую на Phone.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CreateOrderPageTitle">
+            <summary>
+              Ищет локализованную строку, похожую на Create an order.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CustomerEmail">
+            <summary>
+              Ищет локализованную строку, похожую на Customer email:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CustomerEmailError">
+            <summary>
+              Ищет локализованную строку, похожую на Incorrect email format..
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CustomerID">
+            <summary>
+              Ищет локализованную строку, похожую на Customer ID:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CustomerInformationTitle">
+            <summary>
+              Ищет локализованную строку, похожую на Customer information.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CustomerName">
+            <summary>
+              Ищет локализованную строку, похожую на Customer&apos;s name:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CustomerNameError">
+            <summary>
+              Ищет локализованную строку, похожую на The name cannot be empty..
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CustomerPhoneError">
+            <summary>
+              Ищет локализованную строку, похожую на The phone number is too short..
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.CustomerPhoneNumber">
+            <summary>
+              Ищет локализованную строку, похожую на Customer phone number:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.DateOfOrder">
+            <summary>
+              Ищет локализованную строку, похожую на Date of order:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.Description">
+            <summary>
+              Ищет локализованную строку, похожую на Description.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.DetailedInformation">
+            <summary>
+              Ищет локализованную строку, похожую на More information.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.GitHubProfileText">
+            <summary>
+              Ищет локализованную строку, похожую на Link to my GitHub profile:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.Language">
+            <summary>
+              Ищет локализованную строку, похожую на Select the language:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.NameOfProduct">
+            <summary>
+              Ищет локализованную строку, похожую на Name of product:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.OrderCanceled">
+            <summary>
+              Ищет локализованную строку, похожую на The order has been canceled.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.OrderConfirmed">
+            <summary>
+              Ищет локализованную строку, похожую на The order is confirmed.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.OrderID">
+            <summary>
+              Ищет локализованную строку, похожую на Order ID:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.OrderInformationTitle">
+            <summary>
+              Ищет локализованную строку, похожую на Order information.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.OrderStatus">
+            <summary>
+              Ищет локализованную строку, похожую на Order status:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.OrderStatus_Canceled">
+            <summary>
+              Ищет локализованную строку, похожую на Canceled.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.OrderStatus_Delivered">
+            <summary>
+              Ищет локализованную строку, похожую на Delivered.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.OrderStatus_Pending">
+            <summary>
+              Ищет локализованную строку, похожую на Pending.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.PendingOrderPageSubtitleProduct">
+            <summary>
+              Ищет локализованную строку, похожую на Product.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.PendingOrderPageTitle">
+            <summary>
+              Ищет локализованную строку, похожую на Order processing.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.ProductID">
+            <summary>
+              Ищет локализованную строку, похожую на Product ID:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.ProductPrice">
+            <summary>
+              Ищет локализованную строку, похожую на Product price:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.ProductSelection">
+            <summary>
+              Ищет локализованную строку, похожую на Select a product.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.Quantity">
+            <summary>
+              Ищет локализованную строку, похожую на Quantity:.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.QuantityPlaceholder">
+            <summary>
+              Ищет локализованную строку, похожую на Enter the quantity.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.SettingPageTitle">
+            <summary>
+              Ищет локализованную строку, похожую на Settings.
+            </summary>
+        </member>
+        <member name="P:SoftwareSystemOrders.Resources.Localization.Resources.TotalPrice">
+            <summary>
+              Ищет локализованную строку, похожую на Total price:.
+            </summary>
+        </member>
+    </members>
+</doc>
